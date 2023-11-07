@@ -36,8 +36,8 @@
 
 ![image](https://github.com/Jerushli/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120041243/949ef181-d52b-4db2-8959-b1da1743b9f9)
 
-### Name:JERUSHLIN JOSE J B
-### Register Number:212222240039
+### Name: M.SUWETHA
+### Register Number:212221230112
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
